@@ -74,7 +74,7 @@ function App() {
               boxShadow: "4px 4px 49px -5px rgba(34, 60, 80, 0.2)",
             }}
           >
-            <h1 className="text-center">Todo List</h1>
+            <h1 className="text-center">Todo List V2</h1>
             <form onSubmit={(e) => createTodo(e)}>
               <input
                 className="form-control w-100 border-0 p-3 mt-3"
